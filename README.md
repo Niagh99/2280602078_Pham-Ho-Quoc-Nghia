@@ -32,7 +32,7 @@ public class Program
         Console.WriteLine("Danh sach toan bo hoc sinh:");
         foreach (var student in students)
         {
-            Console.WriteLine(student); // Sử dụng ToString() để hiển thị
+            Console.WriteLine(student);
         }
 
         // b
